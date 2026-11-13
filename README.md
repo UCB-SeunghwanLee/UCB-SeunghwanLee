@@ -1,4 +1,4 @@
-## Hi, I'm Sam (Seunghwan) Lee
+## Hi, I'm Sam Lee
 
 **Data scientist and applied economist.** I build forecasting, causal-inference, and machine-learning models, and translate them into decisions.
 
